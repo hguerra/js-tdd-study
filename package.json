@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-study",
+  "version": "1.0.0",
+  "description": "Studying JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hguerra/js-tdd-study.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Heitor Guerra Carneiro <heitorgcarneiro@gmail.com> (https://github.com/hguerra)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hguerra/js-tdd-study/issues"
+  },
+  "homepage": "https://github.com/hguerra/js-tdd-study#readme"
+}
